@@ -11,4 +11,5 @@
 -Bundling files
 -Compressing
 -Consistent
+-Completeness
 
